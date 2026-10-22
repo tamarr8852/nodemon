@@ -1,1 +1,20 @@
 
+{
+  "name": "lesson-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+    "type": "module",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
